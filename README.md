@@ -5,7 +5,7 @@ Set `Bot Token` And `Admin Id` And `Realm Id` In `Config.py`
 ```sh
 # Let's install the bot.
 cd $HOME
-git clone https://github.com/ThisIsAmir/TweenRoBot.git
+git clone https://github.com/claydev/TweenRoBot
 cd TweenRoBot
 chmod +x launch.sh
 ./launch.sh install
